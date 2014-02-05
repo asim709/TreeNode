@@ -193,7 +193,7 @@ class TreeNode {
 		
 		for($i = 0; $i < $indent * 5; $i ++)
 			echo '&nbsp;';
-		echo "Level-" . ($this->_level) . ")&nbsp;" . $this . "<br>";
+		echo "L" . ($this->_level) . ")&nbsp;" . $this . "<br>";
 		
 		if ($this->countChildren () > 0) {
 			$indent ++;
