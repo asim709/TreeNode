@@ -1,11 +1,11 @@
 <?php
 
 /**
- * # --------------------------------------------------------------------
- * # Create and Process Tree structure in PHP with TreeNode class. |
- * # --------------------------------------------------------------------
- * # Tutorial & Usage: http://asimishaq.com/resources/tree-data-structure-in-php								|
- * # --------------------------------------------------------------------
+ * # -----------------------------------------------------------------------------
+ * # Create and Process Tree structure in PHP with TreeNode class.               |
+ * # -----------------------------------------------------------------------------
+ * # Tutorial & Usage: http://asimishaq.com/resources/tree-data-structure-in-php |								|
+ * # -----------------------------------------------------------------------------
  * 
  * 
  * @author Asim Ishaq
